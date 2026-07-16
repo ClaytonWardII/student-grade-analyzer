@@ -40,17 +40,3 @@ g++ -std=c++17 -Wall -Wextra -pedantic main.cpp -o grade_analyzer.exe
 grade_analyzer.exe
 ```
 
-## Example Resume Description
-
-**Student Grade Analyzer | C++**
-
-- Developed a menu-driven C++ application that records and validates student grades, calculates individual and class averages, and ranks students by performance.
-- Implemented bubble sort, linear search, structured data storage, case-insensitive matching, and text-file report generation.
-- Improved program reliability through modular functions, full-name support, input validation, and error handling.
-
-## Possible Future Improvements
-
-- Load previously saved student records when the program starts
-- Add letter-grade calculations
-- Allow records to be edited or deleted
-- Replace bubble sort with the C++ Standard Library sorting algorithm
